@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes_lib", "WpfCustomControlLibrary1\Shapes_lib.csproj", "{28FA427A-2B38-454C-BF24-59B451129921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNCCoil_Base", "CNCCoil_Base\CNCCoil_Base.csproj", "{A3376DA4-70E2-4EAD-B826-A514976EAF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FA427A-2B38-454C-BF24-59B451129921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FA427A-2B38-454C-BF24-59B451129921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FA427A-2B38-454C-BF24-59B451129921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FA427A-2B38-454C-BF24-59B451129921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3376DA4-70E2-4EAD-B826-A514976EAF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3376DA4-70E2-4EAD-B826-A514976EAF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3376DA4-70E2-4EAD-B826-A514976EAF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3376DA4-70E2-4EAD-B826-A514976EAF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC28DE2D-2554-4226-B3F0-01634779C20E}
+	EndGlobalSection
+EndGlobal
